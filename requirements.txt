@@ -4,3 +4,8 @@ face_recognition
 numpy
 opencv-python
 imutils
+tensorflow
+keras
+scipy
+h5py
+matplotlib
